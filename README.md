@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Eunhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhee78&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgml4579)](https://solved.ac/dmsgml4579)
